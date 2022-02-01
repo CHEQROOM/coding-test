@@ -1,0 +1,266 @@
+{
+  "data": {
+    "items": [
+      {
+        "id": "2c10f7d4-5435-482e-ab42-3dd7e1761016",
+        "name": "ARRI Amira 001",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/54225cb5-e979-11eb-8a2a-0618297a6ff5-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "32de2604-8eef-4a6a-b9f2-586f6f5de82f",
+        "category": {
+          "name": "Cameras"
+        }
+      },
+      {
+        "id": "df1a784b-d6a5-4e03-a055-ab539d0c8d87",
+        "name": "ARRI Alexa Mini LF 001",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/7d5bfc8d-ee1c-11eb-9dc9-0a43f1b1763b-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "32de2604-8eef-4a6a-b9f2-586f6f5de82f",
+        "category": {
+          "name": "Cameras"
+        }
+      },
+      {
+        "id": "c13f5f92-7965-40b3-bf95-a690bb672d43",
+        "name": "Blackmagic Micro Cinema Camera HD",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/ab58a585-ee23-11eb-a32f-0675b2543293-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "32de2604-8eef-4a6a-b9f2-586f6f5de82f",
+        "category": {
+          "name": "Cameras"
+        }
+      },
+      {
+        "id": "5e9ff389-9a62-45ec-a1d5-9315c075e273",
+        "name": "Canon 5D Mark II 001",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/3a882f6c-d6f3-11e9-8b5a-0aed0310f264-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "32de2604-8eef-4a6a-b9f2-586f6f5de82f",
+        "category": {
+          "name": "Cameras"
+        }
+      },
+      {
+        "id": "53baff8b-2276-4658-ae9a-13d74144ec01",
+        "name": "Canon C300 001",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/92a27430-6afa-11e7-b843-02f7a617261c-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "32de2604-8eef-4a6a-b9f2-586f6f5de82f",
+        "category": {
+          "name": "Cameras"
+        }
+      },
+      {
+        "id": "6976adfd-d79e-42f2-9004-3de653d5f02d",
+        "name": "ARRI Alura 15.5-45mm T2.8 Zoom",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/82a05299-ee1b-11eb-b6be-0a7599679787-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "b5cdcf05-3b6c-442e-ad60-434224d59e09",
+        "category": {
+          "name": "Lenses"
+        }
+      },
+      {
+        "id": "b45ce17a-0917-4d32-a163-2c04196230bd",
+        "name": "Canon CN-E 18-80mm T4.4 001",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/eaffcb2b-ee1b-11eb-b6be-0a7599679787-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "b5cdcf05-3b6c-442e-ad60-434224d59e09",
+        "category": {
+          "name": "Lenses"
+        }
+      },
+      {
+        "id": "63963fcf-68df-49ec-9e42-bcb021e01086",
+        "name": "Canon EF 135mm",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/5a9021bc-a8b1-11e5-a798-0a910d10b8c5-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "b5cdcf05-3b6c-442e-ad60-434224d59e09",
+        "category": {
+          "name": "Lenses"
+        }
+      },
+      {
+        "id": "c53cf245-7e03-4b5e-b91f-0596d5944d1c",
+        "name": "JVC BN-VF823 Battery 001",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/436dee86-5a21-11e9-937d-0af882ccce16-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "5055f8a4-2f77-4eaf-981a-96390e9077d7",
+        "category": {
+          "name": "Batteries"
+        }
+      },
+      {
+        "id": "796c3c42-026b-49c0-876e-a09166121fdf",
+        "name": "JVC BN-VF823 Battery 002",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/436dee86-5a21-11e9-937d-0af882ccce16-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "5055f8a4-2f77-4eaf-981a-96390e9077d7",
+        "category": {
+          "name": "Batteries"
+        }
+      },
+      {
+        "id": "251505d8-61ee-4c30-a409-28e3e102b46c",
+        "name": "JVC BN-VF823 Battery 003",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/436dee86-5a21-11e9-937d-0af882ccce16-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "5055f8a4-2f77-4eaf-981a-96390e9077d7",
+        "category": {
+          "name": "Batteries"
+        }
+      },
+      {
+        "id": "f11ca35c-c611-437c-b7b2-2000b898de48",
+        "name": "JVC BN-VF823 Battery 004",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/436dee86-5a21-11e9-937d-0af882ccce16-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "5055f8a4-2f77-4eaf-981a-96390e9077d7",
+        "category": {
+          "name": "Batteries"
+        }
+      },
+      {
+        "id": "c431075e-b9e2-44a6-a690-b456bc02a3cc",
+        "name": "Apple Macbook Air 001",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/1f2e40cc-4ac2-11e7-8ec3-0628f96b8d2e-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "8a06a473-8e6c-4a7f-8cb1-9d549b4be386",
+        "category": {
+          "name": "Laptops"
+        }
+      },
+      {
+        "id": "ec30eab1-2a80-4f59-94d7-d1491b5da34e",
+        "name": "Apple Macbook Air 002",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/1f2e40cc-4ac2-11e7-8ec3-0628f96b8d2e-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "8a06a473-8e6c-4a7f-8cb1-9d549b4be386",
+        "category": {
+          "name": "Laptops"
+        }
+      },
+      {
+        "id": "2bec2f7f-9c3d-45ee-b670-48e66f7d50a1",
+        "name": "Apple Macbook Air 003",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/1f2e40cc-4ac2-11e7-8ec3-0628f96b8d2e-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "8a06a473-8e6c-4a7f-8cb1-9d549b4be386",
+        "category": {
+          "name": "Laptops"
+        }
+      },
+      {
+        "id": "8f56d934-5062-4ff9-839f-97b67ec8a366",
+        "name": "Angelbird 128GB AV Pro UHS-II SDXC Memory Card 001",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/2bfff800-0f32-11e9-971e-02bf78e4fae2-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "922acf32-25d9-49c3-9d10-66d89a22b20a",
+        "category": {
+          "name": "Memory Cards"
+        }
+      },
+      {
+        "id": "45b72cb3-4dd7-4259-864b-f69ee20d103e",
+        "name": "Angelbird 128GB AV Pro UHS-II SDXC Memory Card 002",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/2bfff800-0f32-11e9-971e-02bf78e4fae2-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "922acf32-25d9-49c3-9d10-66d89a22b20a",
+        "category": {
+          "name": "Memory Cards"
+        }
+      },
+      {
+        "id": "bc3392c3-834f-4586-9956-fbe710ba5728",
+        "name": "Angelbird 128GB AV Pro UHS-II SDXC Memory Card 003",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/2bfff800-0f32-11e9-971e-02bf78e4fae2-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "922acf32-25d9-49c3-9d10-66d89a22b20a",
+        "category": {
+          "name": "Memory Cards"
+        }
+      },
+      {
+        "id": "fa46fd5a-1ba9-46e8-b714-b091585f60a9",
+        "name": "DJI Mavic Pro 001",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/d27767bb-ba32-11eb-8f87-06bf08ed0713-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "f3b3ebb1-ba15-46de-9f6e-f7fc1f0a2410",
+        "category": {
+          "name": "Drones"
+        }
+      },
+      {
+        "id": "390d81ae-6919-4108-b943-498af0178c6f",
+        "name": "DJI Mini 2 001",
+        "image": "https://assets.cheqroomcdn.com/app/groups/sample_av_equipment/450e6f91-ba32-11eb-8f87-06bf08ed0713-L.jpg",
+        "locationId": "2b3ce1b6-252e-4ee5-8dd3-e9d62016a5d3",
+        "location": {
+          "name": "CHEQROOM HQ"
+        },
+        "categoryId": "f3b3ebb1-ba15-46de-9f6e-f7fc1f0a2410",
+        "category": {
+          "name": "Drones"
+        }
+      }
+    ]
+  }
+}
